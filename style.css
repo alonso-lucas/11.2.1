@@ -1,0 +1,13 @@
+form {
+    padding: 10px;
+    border-style: solid;
+    width: 50%;
+}
+
+label {
+    font-size: 20px;
+}
+
+body {
+    background-color: darkseagreen;
+}
